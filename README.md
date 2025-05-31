@@ -1,4 +1,4 @@
-# Ullas Text Editor 📝
+#Text Editor 📝
 
 A simple, lightweight text editor built using Python's `tkinter`.
 
