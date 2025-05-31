@@ -9,7 +9,7 @@ from spellchecker import SpellChecker
 # Initialize main window
 root = tk.Tk()
 root.title("Ullas Text Editor")
-root.geometry("800x600")
+root.geometry("1000x800")
 
 
 # Default font settings
